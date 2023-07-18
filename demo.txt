@@ -1,1 +1,18 @@
-Hey, Let's see more
+Hey there!
+
+
+mkdir project
+ll
+ls
+cd project
+git init 
+git status 
+touch file.txt
+nano file.txt -> ctrl + o , Enter , ctrl +x
+cat file.txt
+git add file.txt
+git commit -m "mssage"
+git config --global user.email "exe@mail.com"
+git config --global user.name "username"
+git remote add origin "link to repo"
+git push -u origin master
